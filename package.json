@@ -1,0 +1,15 @@
+{
+  "name": "api-tarefas",
+  "version": "1.0.0",
+  "description": "API local de tarefas construída com Node.js e Express",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "keywords": ["api", "express", "tarefas", "crud"],
+  "author": "ViniciusFontanella",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
